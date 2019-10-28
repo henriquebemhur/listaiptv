@@ -1,0 +1,1591 @@
+#EXTM3U
+#EXTINF:-1,A&E UHD
+http://connecttv.cc:80/Leandro/123456/16466
+#EXTINF:-1,A&E UHD²
+http://connecttv.cc:80/Leandro/123456/32154
+#EXTINF:-1,A&E HD
+http://connecttv.cc:80/Leandro/123456/20283
+#EXTINF:-1,A&E HD²
+http://connecttv.cc:80/Leandro/123456/32155
+#EXTINF:-1,A&E SD
+http://connecttv.cc:80/Leandro/123456/17177
+#EXTINF:-1,A&E SD²
+http://connecttv.cc:80/Leandro/123456/32156
+#EXTINF:-1,A FAZENDA HD
+http://connecttv.cc:80/Leandro/123456/35264
+#EXTINF:-1,AMC UHD
+http://connecttv.cc:80/Leandro/123456/17056
+#EXTINF:-1,AMC UHD²
+http://connecttv.cc:80/Leandro/123456/32123
+#EXTINF:-1,AMC HD
+http://connecttv.cc:80/Leandro/123456/20285
+#EXTINF:-1,AMC HD²
+http://connecttv.cc:80/Leandro/123456/32122
+#EXTINF:-1,AMC SD
+http://connecttv.cc:80/Leandro/123456/16465
+#EXTINF:-1,AMC SD²
+http://connecttv.cc:80/Leandro/123456/32124
+#EXTINF:-1,ANIMAL PLANET UHD
+http://connecttv.cc:80/Leandro/123456/16464
+#EXTINF:-1,ANIMAL PLANET UHD²
+http://connecttv.cc:80/Leandro/123456/32120
+#EXTINF:-1,ANIMAL PLANET HD
+http://connecttv.cc:80/Leandro/123456/20268
+#EXTINF:-1,ANIMAL PLANET HD²
+http://connecttv.cc:80/Leandro/123456/32119
+#EXTINF:-1,ANIMAL PLANET SD
+http://connecttv.cc:80/Leandro/123456/16504
+#EXTINF:-1,ANIMAL PLANET SD²
+http://connecttv.cc:80/Leandro/123456/32121
+#EXTINF:-1,ANIMAL PLANET 4K
+http://connecttv.cc:80/Leandro/123456/20289
+#EXTINF:-1,ARTE 1 UHD
+http://connecttv.cc:80/Leandro/123456/16416
+#EXTINF:-1,ARTE 1 UHD²
+http://connecttv.cc:80/Leandro/123456/32117
+#EXTINF:-1,ARTE 1 HD
+http://connecttv.cc:80/Leandro/123456/20282
+#EXTINF:-1,ARTE 1 HD²
+http://connecttv.cc:80/Leandro/123456/32116
+#EXTINF:-1,ARTE 1 SD²
+http://connecttv.cc:80/Leandro/123456/32118
+#EXTINF:-1,AXN UHD
+http://connecttv.cc:80/Leandro/123456/16463
+#EXTINF:-1,AXN UHD²
+http://connecttv.cc:80/Leandro/123456/32114
+#EXTINF:-1,AXN HD
+http://connecttv.cc:80/Leandro/123456/20286
+#EXTINF:-1,AXN HD²
+http://connecttv.cc:80/Leandro/123456/32113
+#EXTINF:-1,AXN SD
+http://connecttv.cc:80/Leandro/123456/17178
+#EXTINF:-1,AXN SD²
+http://connecttv.cc:80/Leandro/123456/32115
+#EXTINF:-1,BABY TV SD
+http://connecttv.cc:80/Leandro/123456/16510
+#EXTINF:-1,BABY TV SD²
+http://connecttv.cc:80/Leandro/123456/32112
+#EXTINF:-1,BABY TV HD²
+http://connecttv.cc:80/Leandro/123456/32111
+#EXTINF:-1,BAND UHD
+http://connecttv.cc:80/Leandro/123456/16462
+#EXTINF:-1,BAND UHD²
+http://connecttv.cc:80/Leandro/123456/32107
+#EXTINF:-1,BAND HD
+http://connecttv.cc:80/Leandro/123456/16555
+#EXTINF:-1,BAND HD²
+http://connecttv.cc:80/Leandro/123456/32106
+#EXTINF:-1,BAND SD
+http://connecttv.cc:80/Leandro/123456/16415
+#EXTINF:-1,BAND SD²
+http://connecttv.cc:80/Leandro/123456/32110
+#EXTINF:-1,BAND 4K  H265
+http://connecttv.cc:80/Leandro/123456/20297
+#EXTINF:-1,BAND CAMPINAS HD²
+http://connecttv.cc:80/Leandro/123456/32108
+#EXTINF:-1,BAND CAMPINAS SD²
+http://connecttv.cc:80/Leandro/123456/32109
+#EXTINF:-1,BAND NEWS UHD
+http://connecttv.cc:80/Leandro/123456/16461
+#EXTINF:-1,BAND NEWS UHD²
+http://connecttv.cc:80/Leandro/123456/32104
+#EXTINF:-1,BAND NEWS HD
+http://connecttv.cc:80/Leandro/123456/20281
+#EXTINF:-1,BAND NEWS HD²
+http://connecttv.cc:80/Leandro/123456/32103
+#EXTINF:-1,BAND NEWS SD²
+http://connecttv.cc:80/Leandro/123456/32105
+#EXTINF:-1,BAND SPORTS UHD
+http://connecttv.cc:80/Leandro/123456/16460
+#EXTINF:-1,BAND SPORTS UHD²
+http://connecttv.cc:80/Leandro/123456/32101
+#EXTINF:-1,BAND SPORTS HD
+http://connecttv.cc:80/Leandro/123456/16414
+#EXTINF:-1,BAND SPORTS HD²
+http://connecttv.cc:80/Leandro/123456/32100
+#EXTINF:-1,BAND SPORTS SD
+http://connecttv.cc:80/Leandro/123456/17977
+#EXTINF:-1,BAND SPORTS SD²
+http://connecttv.cc:80/Leandro/123456/32102
+#EXTINF:-1,BIS UHD
+http://connecttv.cc:80/Leandro/123456/16359
+#EXTINF:-1,BIS UHD²
+http://connecttv.cc:80/Leandro/123456/32098
+#EXTINF:-1,BIS HD
+http://connecttv.cc:80/Leandro/123456/18264
+#EXTINF:-1,BIS HD²
+http://connecttv.cc:80/Leandro/123456/35127
+#EXTINF:-1,BIS SD
+http://connecttv.cc:80/Leandro/123456/16509
+#EXTINF:-1,BIS SDï¿½
+http://connecttv.cc:80/Leandro/123456/32099
+#EXTINF:-1,BOA VONTADE TV SD
+http://connecttv.cc:80/Leandro/123456/16508
+#EXTINF:-1,BOOMERANG UHD
+http://connecttv.cc:80/Leandro/123456/16413
+#EXTINF:-1,BOOMERANG UHD²
+http://connecttv.cc:80/Leandro/123456/32096
+#EXTINF:-1,BOOMERANG HD
+http://connecttv.cc:80/Leandro/123456/16554
+#EXTINF:-1,BOOMERANG HD²
+http://connecttv.cc:80/Leandro/123456/32095
+#EXTINF:-1,BOOMERANG SD
+http://connecttv.cc:80/Leandro/123456/19347
+#EXTINF:-1,BOOMERANG SD²
+http://connecttv.cc:80/Leandro/123456/32097
+#EXTINF:-1,CANAL BRASIL UHD
+http://connecttv.cc:80/Leandro/123456/16412
+#EXTINF:-1,CANAL BRASIL UHD²
+http://connecttv.cc:80/Leandro/123456/32093
+#EXTINF:-1,CANAL BRASIL HD
+http://connecttv.cc:80/Leandro/123456/20280
+#EXTINF:-1,CANAL BRASIL HD²
+http://connecttv.cc:80/Leandro/123456/35265
+#EXTINF:-1,CANAL BRASIL SD
+http://connecttv.cc:80/Leandro/123456/16501
+#EXTINF:-1,CANAL BRASIL SD²
+http://connecttv.cc:80/Leandro/123456/32094
+#EXTINF:-1,CANAL RURAL SD²
+http://connecttv.cc:80/Leandro/123456/35266
+#EXTINF:-1,CANAL PROMESSAS SD²
+http://connecttv.cc:80/Leandro/123456/32179
+#EXTINF:-1,CANÇÃO NOVA SD
+http://connecttv.cc:80/Leandro/123456/17179
+#EXTINF:-1,CANÇÃO NOVA SD²
+http://connecttv.cc:80/Leandro/123456/35284
+#EXTINF:-1,TV CANÇÃO NOVA SD²
+http://connecttv.cc:80/Leandro/123456/31782
+#EXTINF:-1,CARTOON NETWORK UHD
+http://connecttv.cc:80/Leandro/123456/16459
+#EXTINF:-1,CARTOON NETWORK UHD²
+http://connecttv.cc:80/Leandro/123456/32091
+#EXTINF:-1,CARTOON NETWORK HD
+http://connecttv.cc:80/Leandro/123456/20278
+#EXTINF:-1,CARTOON NETWORK HD²
+http://connecttv.cc:80/Leandro/123456/32090
+#EXTINF:-1,CARTOON NETWORK SD
+http://connecttv.cc:80/Leandro/123456/19346
+#EXTINF:-1,CARTOON NETWORK SD²
+http://connecttv.cc:80/Leandro/123456/32092
+#EXTINF:-1,CARTOON 4K
+http://connecttv.cc:80/Leandro/123456/29131
+#EXTINF:-1,CINEMAX UHD
+http://connecttv.cc:80/Leandro/123456/16411
+#EXTINF:-1,CINEMAX UHD²
+http://connecttv.cc:80/Leandro/123456/32088
+#EXTINF:-1,CINEMAX HD
+http://connecttv.cc:80/Leandro/123456/20277
+#EXTINF:-1,CINEMAX HD²
+http://connecttv.cc:80/Leandro/123456/32087
+#EXTINF:-1,CINEMAX SD
+http://connecttv.cc:80/Leandro/123456/17180
+#EXTINF:-1,CINEMAX SD²
+http://connecttv.cc:80/Leandro/123456/32089
+#EXTINF:-1,COMBATE UHD
+http://connecttv.cc:80/Leandro/123456/16458
+#EXTINF:-1,COMBATE UHD²
+http://connecttv.cc:80/Leandro/123456/32085
+#EXTINF:-1,COMBATE HD
+http://connecttv.cc:80/Leandro/123456/17978
+#EXTINF:-1,COMBATE HD²
+http://connecttv.cc:80/Leandro/123456/32084
+#EXTINF:-1,COMBATE SD
+http://connecttv.cc:80/Leandro/123456/16498
+#EXTINF:-1,COMBATE SD ²
+http://connecttv.cc:80/Leandro/123456/32086
+#EXTINF:-1,COMBATE 4K
+http://connecttv.cc:80/Leandro/123456/20229
+#EXTINF:-1,COMEDY CENTRAL UHD
+http://connecttv.cc:80/Leandro/123456/16457
+#EXTINF:-1,COMEDY CENTRAL UHD²
+http://connecttv.cc:80/Leandro/123456/32083
+#EXTINF:-1,COMEDY CENTRAL HD
+http://connecttv.cc:80/Leandro/123456/20276
+#EXTINF:-1,COMEDY CENTRAL HD²
+http://connecttv.cc:80/Leandro/123456/32082
+#EXTINF:-1,COMEDY CENTRAL SD
+http://connecttv.cc:80/Leandro/123456/16502
+#EXTINF:-1,CURTA! UHD²
+http://connecttv.cc:80/Leandro/123456/32080
+#EXTINF:-1,CURTA! HD²
+http://connecttv.cc:80/Leandro/123456/32079
+#EXTINF:-1,CURTA SD
+http://connecttv.cc:80/Leandro/123456/16500
+#EXTINF:-1,CURTA! SD²
+http://connecttv.cc:80/Leandro/123456/32081
+#EXTINF:-1,DAZN HD
+http://connecttv.cc:80/Leandro/123456/17440
+#EXTINF:-1,DAZN UHD²
+http://connecttv.cc:80/Leandro/123456/32078
+#EXTINF:-1,DISCOVERY CHANNEL UHD
+http://connecttv.cc:80/Leandro/123456/16374
+#EXTINF:-1,DISCOVERY CHANNEL UHD²
+http://connecttv.cc:80/Leandro/123456/32077
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://connecttv.cc:80/Leandro/123456/20275
+#EXTINF:-1,DISCOVERY CHANNEL HD²
+http://connecttv.cc:80/Leandro/123456/32076
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://connecttv.cc:80/Leandro/123456/18079
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://connecttv.cc:80/Leandro/123456/20293
+#EXTINF:-1,DISCOVERY CIVILIZATION UHD
+http://connecttv.cc:80/Leandro/123456/16366
+#EXTINF:-1,DISCOVERY CIVILIZATION UHD²
+http://connecttv.cc:80/Leandro/123456/32074
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://connecttv.cc:80/Leandro/123456/20265
+#EXTINF:-1,DISCOVERY CIVILIZATION HD²
+http://connecttv.cc:80/Leandro/123456/32073
+#EXTINF:-1,DISCOVERY CIVILIZATION SD
+http://connecttv.cc:80/Leandro/123456/16499
+#EXTINF:-1,DISCOVERY CIVILIZATION SD²
+http://connecttv.cc:80/Leandro/123456/32075
+#EXTINF:-1,DISCOVERY HOME & HEALTH UHD
+http://connecttv.cc:80/Leandro/123456/17428
+#EXTINF:-1,DISCOVERY HOME & HEALTH UHD²
+http://connecttv.cc:80/Leandro/123456/32071
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://connecttv.cc:80/Leandro/123456/20274
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD²
+http://connecttv.cc:80/Leandro/123456/32070
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+http://connecttv.cc:80/Leandro/123456/18080
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD²
+http://connecttv.cc:80/Leandro/123456/32072
+#EXTINF:-1,DISCOVERY KIDS UHD
+http://connecttv.cc:80/Leandro/123456/16409
+#EXTINF:-1,DISCOVERY KIDS UHD²
+http://connecttv.cc:80/Leandro/123456/32068
+#EXTINF:-1,DISCOVERY KIDS HD
+http://connecttv.cc:80/Leandro/123456/16553
+#EXTINF:-1,DICOVERY KIDS HD²
+http://connecttv.cc:80/Leandro/123456/32067
+#EXTINF:-1,DISCOVERY KIDS SD
+http://connecttv.cc:80/Leandro/123456/18081
+#EXTINF:-1,DISCOVERY KIDS SD²
+http://connecttv.cc:80/Leandro/123456/32069
+#EXTINF:-1,DISCOVERY SCIENCE UHD
+http://connecttv.cc:80/Leandro/123456/16365
+#EXTINF:-1,DISCOVERY SCIENCE UHD²
+http://connecttv.cc:80/Leandro/123456/32065
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://connecttv.cc:80/Leandro/123456/20273
+#EXTINF:-1,DISCOVERY SCIENCE HD²
+http://connecttv.cc:80/Leandro/123456/32064
+#EXTINF:-1,DISCOVERY SCIENCE SD²
+http://connecttv.cc:80/Leandro/123456/32066
+#EXTINF:-1,DISCOVERY THEATER UHD
+http://connecttv.cc:80/Leandro/123456/16410
+#EXTINF:-1,DISCOVERY THEATHER UHD²
+http://connecttv.cc:80/Leandro/123456/32062
+#EXTINF:-1,DISCOVERY THEATER HD
+http://connecttv.cc:80/Leandro/123456/20272
+#EXTINF:-1,DISCOVERY THEATHER HD²
+http://connecttv.cc:80/Leandro/123456/32061
+#EXTINF:-1,DISCOVERY THEATHER SD²
+http://connecttv.cc:80/Leandro/123456/32063
+#EXTINF:-1,DISCOVERY TURBO UHD
+http://connecttv.cc:80/Leandro/123456/16456
+#EXTINF:-1,DISCOVERY TURBO UHD²
+http://connecttv.cc:80/Leandro/123456/32059
+#EXTINF:-1,DISCOVERY TURBO HD
+http://connecttv.cc:80/Leandro/123456/16552
+#EXTINF:-1,DISCOVERY TURBO HD²
+http://connecttv.cc:80/Leandro/123456/32058
+#EXTINF:-1,DISCOVERY TURBO SD²
+http://connecttv.cc:80/Leandro/123456/32060
+#EXTINF:-1,DISCOVERY WORLD UHD
+http://connecttv.cc:80/Leandro/123456/16408
+#EXTINF:-1,DISCOVERY WORLD UHD²
+http://connecttv.cc:80/Leandro/123456/32056
+#EXTINF:-1,DISCOVERY WORLD HD
+http://connecttv.cc:80/Leandro/123456/20271
+#EXTINF:-1,DISCOVERY WORLD HD²
+http://connecttv.cc:80/Leandro/123456/32055
+#EXTINF:-1,DISCOVERY WORLD SD²
+http://connecttv.cc:80/Leandro/123456/32057
+#EXTINF:-1,DISNEY CHANNEL UHD
+http://connecttv.cc:80/Leandro/123456/16407
+#EXTINF:-1,DISNEY CHANNEL UHD²
+http://connecttv.cc:80/Leandro/123456/32053
+#EXTINF:-1,DISNEY CHANNEL HD
+http://connecttv.cc:80/Leandro/123456/20270
+#EXTINF:-1,DISNEY CHANNEL HD²
+http://connecttv.cc:80/Leandro/123456/32052
+#EXTINF:-1,DISNEY CHANNEL SD
+http://connecttv.cc:80/Leandro/123456/19345
+#EXTINF:-1,DISNEY CHANNEL SD²
+http://connecttv.cc:80/Leandro/123456/32054
+#EXTINF:-1,DISNEY JR UHD
+http://connecttv.cc:80/Leandro/123456/16406
+#EXTINF:-1,DISNEY JR UHD²
+http://connecttv.cc:80/Leandro/123456/32050
+#EXTINF:-1,DISNEY JR HD
+http://connecttv.cc:80/Leandro/123456/16551
+#EXTINF:-1,DISNEY JR HD²
+http://connecttv.cc:80/Leandro/123456/32049
+#EXTINF:-1,DISNEY JR SD
+http://connecttv.cc:80/Leandro/123456/16506
+#EXTINF:-1,DISNEY JR SD²
+http://connecttv.cc:80/Leandro/123456/32051
+#EXTINF:-1,DISNEY XD UHD
+http://connecttv.cc:80/Leandro/123456/16405
+#EXTINF:-1,DISNEY XD UHD²
+http://connecttv.cc:80/Leandro/123456/32047
+#EXTINF:-1,DISNEY XD HD
+http://connecttv.cc:80/Leandro/123456/17976
+#EXTINF:-1,DISNEY XD HD²
+http://connecttv.cc:80/Leandro/123456/32046
+#EXTINF:-1,DISNEY XD SD²
+http://connecttv.cc:80/Leandro/123456/32048
+#EXTINF:-1,DOG TV FHD
+http://connecttv.cc:80/Leandro/123456/16417
+#EXTINF:-1,DOG TV HD
+http://connecttv.cc:80/Leandro/123456/16455
+#EXTINF:-1,ESPORTE INTERATIVO HD
+http://connecttv.cc:80/Leandro/123456/16403
+#EXTINF:-1,E! HD²
+http://connecttv.cc:80/Leandro/123456/32043
+#EXTINF:-1,E! SD²
+http://connecttv.cc:80/Leandro/123456/32045
+#EXTINF:-1,E! UHD²
+http://connecttv.cc:80/Leandro/123456/32044
+#EXTINF:-1,EI PLUS SD²
+http://connecttv.cc:80/Leandro/123456/32042
+#EXTINF:-1,ESPN BRASIL UHD
+http://connecttv.cc:80/Leandro/123456/16453
+#EXTINF:-1,ESPN BRASIL UHD²
+http://connecttv.cc:80/Leandro/123456/32037
+#EXTINF:-1,ESPN  BRASIL HD
+http://connecttv.cc:80/Leandro/123456/16550
+#EXTINF:-1,ESPN BRASIL HD²
+http://connecttv.cc:80/Leandro/123456/32036
+#EXTINF:-1,ESPN BRASIL SD
+http://connecttv.cc:80/Leandro/123456/19344
+#EXTINF:-1,ESPN BRASIL SD²
+http://connecttv.cc:80/Leandro/123456/32038
+#EXTINF:-1,ESPN H265
+http://connecttv.cc:80/Leandro/123456/19349
+#EXTINF:-1,ESPN UHD
+http://connecttv.cc:80/Leandro/123456/20230
+#EXTINF:-1,ESPN UHD²
+http://connecttv.cc:80/Leandro/123456/32040
+#EXTINF:-1,ESPN HD
+http://connecttv.cc:80/Leandro/123456/20269
+#EXTINF:-1,ESPN SD²
+http://connecttv.cc:80/Leandro/123456/32041
+#EXTINF:-1,ESPN HD²
+http://connecttv.cc:80/Leandro/123456/32039
+#EXTINF:-1,ESPN 2 UHD
+http://connecttv.cc:80/Leandro/123456/16454
+#EXTINF:-1,ESPN 2 UHD²
+http://connecttv.cc:80/Leandro/123456/32033
+#EXTINF:-1,ESPN 2 HD
+http://connecttv.cc:80/Leandro/123456/16549
+#EXTINF:-1,ESPN 2 HD²
+http://connecttv.cc:80/Leandro/123456/32032
+#EXTINF:-1,ESPN EXTRA UHD
+http://connecttv.cc:80/Leandro/123456/16404
+#EXTINF:-1,ESPN EXTRA HD
+http://connecttv.cc:80/Leandro/123456/16548
+#EXTINF:-1,ESPN EXTRA HD²
+http://connecttv.cc:80/Leandro/123456/32034
+#EXTINF:-1,ESPN EXTRA SD²
+http://connecttv.cc:80/Leandro/123456/32035
+#EXTINF:-1,FASHION UHD
+http://connecttv.cc:80/Leandro/123456/16375
+#EXTINF:-1,FASHION TV HD
+http://connecttv.cc:80/Leandro/123456/20262
+#EXTINF:-1,FILM & ARTS FHD
+http://connecttv.cc:80/Leandro/123456/16376
+#EXTINF:-1,FISHTV UHD
+http://connecttv.cc:80/Leandro/123456/16370
+#EXTINF:-1,FISH TV UHD²
+http://connecttv.cc:80/Leandro/123456/32030
+#EXTINF:-1,FISH HD
+http://connecttv.cc:80/Leandro/123456/20263
+#EXTINF:-1,FISH TV HD²
+http://connecttv.cc:80/Leandro/123456/32029
+#EXTINF:-1,FISHTV SD
+http://connecttv.cc:80/Leandro/123456/16496
+#EXTINF:-1,FISH TV SD²
+http://connecttv.cc:80/Leandro/123456/32031
+#EXTINF:-1,FOOD NETWORK UHD
+http://connecttv.cc:80/Leandro/123456/16402
+#EXTINF:-1,FOOD NETWORK UHD²
+http://connecttv.cc:80/Leandro/123456/32027
+#EXTINF:-1,FOOD NETWORK HD
+http://connecttv.cc:80/Leandro/123456/31192
+#EXTINF:-1,FOOD NETWORK HD²
+http://connecttv.cc:80/Leandro/123456/32026
+#EXTINF:-1,FOOD NETWORK SD
+http://connecttv.cc:80/Leandro/123456/19342
+#EXTINF:-1,FOOD NETWORK SD²
+http://connecttv.cc:80/Leandro/123456/32028
+#EXTINF:-1,FOX LIFE FHD
+http://connecttv.cc:80/Leandro/123456/16451
+#EXTINF:-1,FOX LIFE HD
+http://connecttv.cc:80/Leandro/123456/16547
+#EXTINF:-1,FOX LIFE HD²
+http://connecttv.cc:80/Leandro/123456/32022
+#EXTINF:-1,FOX LIFE SD
+http://connecttv.cc:80/Leandro/123456/16495
+#EXTINF:-1,FOX LIFE SD²
+http://connecttv.cc:80/Leandro/123456/32023
+#EXTINF:-1,FOX PREMIUM 1 UHD
+http://connecttv.cc:80/Leandro/123456/16450
+#EXTINF:-1,FOX PREMIUM 1 UHD²
+http://connecttv.cc:80/Leandro/123456/32021
+#EXTINF:-1,FOX PREMIUM 1 HD²
+http://connecttv.cc:80/Leandro/123456/32020
+#EXTINF:-1,FOX PREMIUM 2 UHD
+http://connecttv.cc:80/Leandro/123456/16449
+#EXTINF:-1,FOX PREMIUM 2 UHD²
+http://connecttv.cc:80/Leandro/123456/32018
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://connecttv.cc:80/Leandro/123456/16546
+#EXTINF:-1,FOX PREMIUM 2 HD²
+http://connecttv.cc:80/Leandro/123456/32017
+#EXTINF:-1,FOX PREMIUM 2 SD²
+http://connecttv.cc:80/Leandro/123456/32019
+#EXTINF:-1,FOX UHD
+http://connecttv.cc:80/Leandro/123456/16452
+#EXTINF:-1,FOX UHD²
+http://connecttv.cc:80/Leandro/123456/32024
+#EXTINF:-1,FOX HD
+http://connecttv.cc:80/Leandro/123456/35128
+#EXTINF:-1,FOX SD
+http://connecttv.cc:80/Leandro/123456/19341
+#EXTINF:-1,FOX SD²
+http://connecttv.cc:80/Leandro/123456/32025
+#EXTINF:-1,FOX SPORTS UHD
+http://connecttv.cc:80/Leandro/123456/16448
+#EXTINF:-1,FOX SPORTS UHD²
+http://connecttv.cc:80/Leandro/123456/32012
+#EXTINF:-1,FOX SPORTS HD
+http://connecttv.cc:80/Leandro/123456/16514
+#EXTINF:-1,FOX SPORTS HD²
+http://connecttv.cc:80/Leandro/123456/32011
+#EXTINF:-1,FOX SPORTS SD
+http://connecttv.cc:80/Leandro/123456/16505
+#EXTINF:-1,FOX SPORTS SD²
+http://connecttv.cc:80/Leandro/123456/32016
+#EXTINF:-1,FOX SPORTS 4K
+http://connecttv.cc:80/Leandro/123456/20291
+#EXTINF:-1,FOX SPORTS 2 UHD
+http://connecttv.cc:80/Leandro/123456/16447
+#EXTINF:-1,FOX SPORTS 2 UHD²
+http://connecttv.cc:80/Leandro/123456/32014
+#EXTINF:-1,FOX SPORTS 2 HD
+http://connecttv.cc:80/Leandro/123456/16513
+#EXTINF:-1,FOX SPORTS 2 HD²
+http://connecttv.cc:80/Leandro/123456/32013
+#EXTINF:-1,FOX SPORTS 2 SD²
+http://connecttv.cc:80/Leandro/123456/32015
+#EXTINF:-1,FOX SPORTS 2 4K
+http://connecttv.cc:80/Leandro/123456/29129
+#EXTINF:-1,FUTURA SD²
+http://connecttv.cc:80/Leandro/123456/32010
+#EXTINF:-1,FX UHD
+http://connecttv.cc:80/Leandro/123456/16401
+#EXTINF:-1,FX UHD²
+http://connecttv.cc:80/Leandro/123456/32008
+#EXTINF:-1,FX HD²
+http://connecttv.cc:80/Leandro/123456/35129
+#EXTINF:-1,FX SD
+http://connecttv.cc:80/Leandro/123456/16494
+#EXTINF:-1,FX SD²
+http://connecttv.cc:80/Leandro/123456/32009
+#EXTINF:-1,GLOBO RJ UHD
+http://connecttv.cc:80/Leandro/123456/16493
+#EXTINF:-1,GLOBO RJ UHD²
+http://connecttv.cc:80/Leandro/123456/31990
+#EXTINF:-1,GLOBO RJ HD
+http://connecttv.cc:80/Leandro/123456/16492
+#EXTINF:-1,Globo RJ HD²
+http://connecttv.cc:80/Leandro/123456/31989
+#EXTINF:-1,GLOBO RJ SD
+http://connecttv.cc:80/Leandro/123456/16476
+#EXTINF:-1,GLOBO RJ SD²
+http://connecttv.cc:80/Leandro/123456/31991
+#EXTINF:-1,GLOBO SP UHD
+http://connecttv.cc:80/Leandro/123456/16485
+#EXTINF:-1,GLOBO SP UHD²
+http://connecttv.cc:80/Leandro/123456/31984
+#EXTINF:-1,GLOBO SP HD
+http://connecttv.cc:80/Leandro/123456/16480
+#EXTINF:-1,GLOBO SP HD²
+http://connecttv.cc:80/Leandro/123456/31983
+#EXTINF:-1,GLOBO SP SD²
+http://connecttv.cc:80/Leandro/123456/31985
+#EXTINF:-1,GLOBO 4K H265
+http://connecttv.cc:80/Leandro/123456/20231
+#EXTINF:-1,GLOBO BRASILIA HD
+http://connecttv.cc:80/Leandro/123456/17979
+#EXTINF:-1,GLOBO BRASILIA HD²
+http://connecttv.cc:80/Leandro/123456/32005
+#EXTINF:-1,GLOBO BRASILIA SD
+http://connecttv.cc:80/Leandro/123456/16484
+#EXTINF:-1,GLOBO BRASILIA SD²
+http://connecttv.cc:80/Leandro/123456/32006
+#EXTINF:-1,GLOBO MG UHD²
+http://connecttv.cc:80/Leandro/123456/31998
+#EXTINF:-1,GLOBO MG HD
+http://connecttv.cc:80/Leandro/123456/16488
+#EXTINF:-1,GLOBO MG HD²
+http://connecttv.cc:80/Leandro/123456/31997
+#EXTINF:-1,GLOBO MG SD
+http://connecttv.cc:80/Leandro/123456/16487
+#EXTINF:-1,GLOBO MINAS SD²
+http://connecttv.cc:80/Leandro/123456/35061
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://connecttv.cc:80/Leandro/123456/16486
+#EXTINF:-1,GLOBO NORDESTE UHD²
+http://connecttv.cc:80/Leandro/123456/35108
+#EXTINF:-1,GLOBO NORDESTE HD²
+http://connecttv.cc:80/Leandro/123456/31993
+#EXTINF:-1,GLOBO NORDESTE SD
+http://connecttv.cc:80/Leandro/123456/16478
+#EXTINF:-1,GLOBO NORDESTE SD²
+http://connecttv.cc:80/Leandro/123456/35064
+#EXTINF:-1,GLOBO ES HD
+http://connecttv.cc:80/Leandro/123456/16490
+#EXTINF:-1,GLOBO ES SD
+http://connecttv.cc:80/Leandro/123456/20259
+#EXTINF:-1,GLOBO RPC CURITIBA UHD²
+http://connecttv.cc:80/Leandro/123456/31987
+#EXTINF:-1,GLOBO RPC  CURITIBA HD
+http://connecttv.cc:80/Leandro/123456/31187
+#EXTINF:-1,GLOBO RPC CURITIBA HD²
+http://connecttv.cc:80/Leandro/123456/31986
+#EXTINF:-1,GLOBO RPC CURITIBA SD
+http://connecttv.cc:80/Leandro/123456/16475
+#EXTINF:-1,GLOBO RPC CURITIBA SD²
+http://connecttv.cc:80/Leandro/123456/31988
+#EXTINF:-1,GLOBO TV BAHIA SD
+http://connecttv.cc:80/Leandro/123456/16473
+#EXTINF:-1,GLOBO BA UHD²
+http://connecttv.cc:80/Leandro/123456/35111
+#EXTINF:-1,GLOBO BA SD²
+http://connecttv.cc:80/Leandro/123456/32007
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO HD²
+http://connecttv.cc:80/Leandro/123456/32001
+#EXTINF:-1,GLOBO EPTV CAMPINAS UHD
+http://connecttv.cc:80/Leandro/123456/35107
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD²
+http://connecttv.cc:80/Leandro/123456/32004
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://connecttv.cc:80/Leandro/123456/16483
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD²
+http://connecttv.cc:80/Leandro/123456/32003
+#EXTINF:-1,GLOBO EPTV CENTRAL SD²
+http://connecttv.cc:80/Leandro/123456/35042
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD
+http://connecttv.cc:80/Leandro/123456/16482
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD²
+http://connecttv.cc:80/Leandro/123456/32002
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD
+http://connecttv.cc:80/Leandro/123456/16481
+#EXTINF:-1,GLOBO EPTV SÃO CARLOS SD²
+http://connecttv.cc:80/Leandro/123456/32000
+#EXTINF:-1,GLOBO EPTV SUL MINAS SD²
+http://connecttv.cc:80/Leandro/123456/35059
+#EXTINF:-1,GLOBO  GAZETA SUL FHD
+http://connecttv.cc:80/Leandro/123456/16491
+#EXTINF:-1,GLOBO INTER TV CABUGI SD
+http://connecttv.cc:80/Leandro/123456/16479
+#EXTINF:-1,GLOBO INTER CABUGI SD²
+http://connecttv.cc:80/Leandro/123456/31999
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL SD²
+http://connecttv.cc:80/Leandro/123456/35060
+#EXTINF:-1,GLOBO INTER TV SERRA MAR SD²
+http://connecttv.cc:80/Leandro/123456/35062
+#EXTINF:-1,GLOBO NSC BLUMENAL SD²
+http://connecttv.cc:80/Leandro/123456/35065
+#EXTINF:-1,GLOBO NSC FLORIANÓPOLIS UHD²
+http://connecttv.cc:80/Leandro/123456/35109
+#EXTINF:-1,GLOBO NSC JOINVILLE SD²
+http://connecttv.cc:80/Leandro/123456/35066
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD²
+http://connecttv.cc:80/Leandro/123456/35032
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD²
+http://connecttv.cc:80/Leandro/123456/31992
+#EXTINF:-1,GLOBO RBS TV POÁ UHD²
+http://connecttv.cc:80/Leandro/123456/35089
+#EXTINF:-1,GLOBO RBS TV POÁ SD²
+http://connecttv.cc:80/Leandro/123456/35090
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA UHD²
+http://connecttv.cc:80/Leandro/123456/35110
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA SD
+http://connecttv.cc:80/Leandro/123456/16474
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA SD²
+http://connecttv.cc:80/Leandro/123456/35092
+#EXTINF:-1,GLOBO TV ASA BRANCA SD²
+http://connecttv.cc:80/Leandro/123456/35093
+#EXTINF:-1,GLOBO TV BAURU HD²
+http://connecttv.cc:80/Leandro/123456/31980
+#EXTINF:-1,GLOBO TV TEM BAURU SD
+http://connecttv.cc:80/Leandro/123456/16470
+#EXTINF:-1,GLOBO TV TEM BAURU SD²
+http://connecttv.cc:80/Leandro/123456/35101
+#EXTINF:-1,GLOBO TV TEM ITAPETININGA SD²
+http://connecttv.cc:80/Leandro/123456/35102
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+http://connecttv.cc:80/Leandro/123456/16469
+#EXTINF:-1,GLOBO TV SOROCABA SD²
+http://connecttv.cc:80/Leandro/123456/31979
+#EXTINF:-1,GLOBO TV TEM SJRP SD²
+http://connecttv.cc:80/Leandro/123456/35103
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
+http://connecttv.cc:80/Leandro/123456/16468
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD²
+http://connecttv.cc:80/Leandro/123456/31978
+#EXTINF:-1,GLOBO GOIAS UHD
+http://connecttv.cc:80/Leandro/123456/20233
+#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS HD²
+http://connecttv.cc:80/Leandro/123456/35105
+#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS SD
+http://connecttv.cc:80/Leandro/123456/16477
+#EXTINF:-1,GLOBO TV REDE AMAZONICA MANAUS SD²
+http://connecttv.cc:80/Leandro/123456/35091
+#EXTINF:-1,GLOBO CENTRO AMERICA UHD²
+http://connecttv.cc:80/Leandro/123456/35106
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD
+http://connecttv.cc:80/Leandro/123456/16472
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD²
+http://connecttv.cc:80/Leandro/123456/35094
+#EXTINF:-1,GLOBO TV LIBERAL BELEM UHD²
+http://connecttv.cc:80/Leandro/123456/35112
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
+http://connecttv.cc:80/Leandro/123456/16471
+#EXTINF:-1,GLOBO TV BELEM SD²
+http://connecttv.cc:80/Leandro/123456/31982
+#EXTINF:-1,GLOBO TV DIARIO SD²
+http://connecttv.cc:80/Leandro/123456/31981
+#EXTINF:-1,GLOBO TV FRONTEIRA SD²
+http://connecttv.cc:80/Leandro/123456/35095
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO SD²
+http://connecttv.cc:80/Leandro/123456/35096
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS SD²
+http://connecttv.cc:80/Leandro/123456/35097
+#EXTINF:-1,GLOBO TV MIRANTE UHD²
+http://connecttv.cc:80/Leandro/123456/35113
+#EXTINF:-1,GLOBO TV MORENA UHD²
+http://connecttv.cc:80/Leandro/123456/35114
+#EXTINF:-1,GLOBO TV RIO SUL SD²
+http://connecttv.cc:80/Leandro/123456/35098
+#EXTINF:-1,GLOBO TV VANGUARDA S. J. DOS CAMPOS SD
+http://connecttv.cc:80/Leandro/123456/16467
+#EXTINF:-1,GLOBO TV SANTA CRUZ SD²
+http://connecttv.cc:80/Leandro/123456/35099
+#EXTINF:-1,GLOBOTVSUDOESTESD
+http://connecttv.cc:80/Leandro/123456/35100
+#EXTINF:-1,GLOBO TV TAUBATÉ SD²
+http://connecttv.cc:80/Leandro/123456/35104
+#EXTINF:-1,GLOBO TV VANG S.J DOS CAMPOS SD²
+http://connecttv.cc:80/Leandro/123456/31977
+#EXTINF:-1,GLOBO TV VERDES MARES UHD²
+http://connecttv.cc:80/Leandro/123456/35115
+#EXTINF:-1,GLOBO TV VERDES MARES SD
+http://connecttv.cc:80/Leandro/123456/19273
+#EXTINF:-1,GLOBO TV VERDES MARES SD²
+http://connecttv.cc:80/Leandro/123456/31976
+#EXTINF:-1,GLOBO VERDES MARES HD
+http://connecttv.cc:80/Leandro/123456/16489
+#EXTINF:-1,GLOBO TV SERGIPE HD
+http://connecttv.cc:80/Leandro/123456/33439
+#EXTINF:-1,GLOBO TV SERGIPE SD²
+http://connecttv.cc:80/Leandro/123456/35063
+#EXTINF:-1,GLOBO NEWS UHD
+http://connecttv.cc:80/Leandro/123456/16371
+#EXTINF:-1,GLOBO NEWS UHD²
+http://connecttv.cc:80/Leandro/123456/31995
+#EXTINF:-1,GLOBO NEWS HD
+http://connecttv.cc:80/Leandro/123456/31190
+#EXTINF:-1,GLOBO NEWS HD²
+http://connecttv.cc:80/Leandro/123456/31994
+#EXTINF:-1,GLOBO NEWS SD²
+http://connecttv.cc:80/Leandro/123456/31996
+#EXTINF:-1,GLOOB UHD
+http://connecttv.cc:80/Leandro/123456/16400
+#EXTINF:-1,GLOOB UHD²
+http://connecttv.cc:80/Leandro/123456/31971
+#EXTINF:-1,GLOOB HD
+http://connecttv.cc:80/Leandro/123456/16515
+#EXTINF:-1,GLOOB HD²
+http://connecttv.cc:80/Leandro/123456/31970
+#EXTINF:-1,GLOOB SD
+http://connecttv.cc:80/Leandro/123456/19272
+#EXTINF:-1,GLOOB SD²
+http://connecttv.cc:80/Leandro/123456/31972
+#EXTINF:-1,GLOOBINHOHD
+http://connecttv.cc:80/Leandro/123456/35263
+#EXTINF:-1,GNT UHD
+http://connecttv.cc:80/Leandro/123456/16372
+#EXTINF:-1,GNT UHD²
+http://connecttv.cc:80/Leandro/123456/31968
+#EXTINF:-1,GNT HD²
+http://connecttv.cc:80/Leandro/123456/31967
+#EXTINF:-1,GNT SD
+http://connecttv.cc:80/Leandro/123456/18082
+#EXTINF:-1,GNT SD²
+http://connecttv.cc:80/Leandro/123456/31969
+#EXTINF:-1,GUIA DO FUTEBOL FHD
+http://connecttv.cc:80/Leandro/123456/17443
+#EXTINF:-1,TELECINE ACTION UHD
+http://connecttv.cc:80/Leandro/123456/16429
+#EXTINF:-1,TELECINE ACTION UHD²
+http://connecttv.cc:80/Leandro/123456/31815
+#EXTINF:-1,TELECINE ACTION HD
+http://connecttv.cc:80/Leandro/123456/16526
+#EXTINF:-1,TELECINE ACTION HD²
+http://connecttv.cc:80/Leandro/123456/31814
+#EXTINF:-1,TELECINE ACTION SD
+http://connecttv.cc:80/Leandro/123456/17187
+#EXTINF:-1,TELECINE ACTION SD²
+http://connecttv.cc:80/Leandro/123456/31816
+#EXTINF:-1,TELECINE CULT UHD
+http://connecttv.cc:80/Leandro/123456/29125
+#EXTINF:-1,TELECINE CULT UHD²
+http://connecttv.cc:80/Leandro/123456/31812
+#EXTINF:-1,TELECINE CULT HD
+http://connecttv.cc:80/Leandro/123456/31195
+#EXTINF:-1,TELECINE CULT HD²
+http://connecttv.cc:80/Leandro/123456/31811
+#EXTINF:-1,TELECINE CULT SD
+http://connecttv.cc:80/Leandro/123456/19263
+#EXTINF:-1,TELECINE CULT SD²
+http://connecttv.cc:80/Leandro/123456/31813
+#EXTINF:-1,TELECINE FUN UHD
+http://connecttv.cc:80/Leandro/123456/16430
+#EXTINF:-1,TELECINE FUN UHD²
+http://connecttv.cc:80/Leandro/123456/31809
+#EXTINF:-1,TELECINE FUN HD
+http://connecttv.cc:80/Leandro/123456/16525
+#EXTINF:-1,TELECINE FUN HD²
+http://connecttv.cc:80/Leandro/123456/31808
+#EXTINF:-1,TELECINE FUN SD
+http://connecttv.cc:80/Leandro/123456/19262
+#EXTINF:-1,TELECINE FUN SD²
+http://connecttv.cc:80/Leandro/123456/31810
+#EXTINF:-1,TELECINE PIPOCA  UHD
+http://connecttv.cc:80/Leandro/123456/16431
+#EXTINF:-1,TELECINE PIPOCA UHD²
+http://connecttv.cc:80/Leandro/123456/31806
+#EXTINF:-1,TELECINE PIPOCA HD
+http://connecttv.cc:80/Leandro/123456/16524
+#EXTINF:-1,TELECINE PIPOCA HD²
+http://connecttv.cc:80/Leandro/123456/31805
+#EXTINF:-1,TELECINE PIPOCA SD²
+http://connecttv.cc:80/Leandro/123456/31807
+#EXTINF:-1,TELECINE PREMIUM UHD
+http://connecttv.cc:80/Leandro/123456/16432
+#EXTINF:-1,TELECINE PREMIUM UHD²
+http://connecttv.cc:80/Leandro/123456/31803
+#EXTINF:-1,TELECINE PREMIUM HD
+http://connecttv.cc:80/Leandro/123456/16523
+#EXTINF:-1,TELECINE PREMIUM HD²
+http://connecttv.cc:80/Leandro/123456/31802
+#EXTINF:-1,TELECINE PREMIUM SD²
+http://connecttv.cc:80/Leandro/123456/31804
+#EXTINF:-1,TELECINE TOUCH UHD
+http://connecttv.cc:80/Leandro/123456/16433
+#EXTINF:-1,TELECINE TOUCH UHD²
+http://connecttv.cc:80/Leandro/123456/31800
+#EXTINF:-1,TELECINE TOUCH HD
+http://connecttv.cc:80/Leandro/123456/16522
+#EXTINF:-1,TELECINE TOUCH HD²
+http://connecttv.cc:80/Leandro/123456/31799
+#EXTINF:-1,TELECINE TOUCH SD²
+http://connecttv.cc:80/Leandro/123456/31801
+#EXTINF:-1,HBO UHD
+http://connecttv.cc:80/Leandro/123456/16444
+#EXTINF:-1,HBO UHD²
+http://connecttv.cc:80/Leandro/123456/31956
+#EXTINF:-1,HBO HD
+http://connecttv.cc:80/Leandro/123456/16399
+#EXTINF:-1,HBO  HD
+http://connecttv.cc:80/Leandro/123456/31186
+#EXTINF:-1,HBO HD²
+http://connecttv.cc:80/Leandro/123456/31955
+#EXTINF:-1,HBO SD
+http://connecttv.cc:80/Leandro/123456/19271
+#EXTINF:-1,HBO SD²
+http://connecttv.cc:80/Leandro/123456/31963
+#EXTINF:-1,HBO 2 UHD
+http://connecttv.cc:80/Leandro/123456/16445
+#EXTINF:-1,HBO 2 UHD²
+http://connecttv.cc:80/Leandro/123456/31961
+#EXTINF:-1,HBO 2 HD
+http://connecttv.cc:80/Leandro/123456/16545
+#EXTINF:-1,HBO 2 HD²
+http://connecttv.cc:80/Leandro/123456/31960
+#EXTINF:-1,HBO 2 SD
+http://connecttv.cc:80/Leandro/123456/18083
+#EXTINF:-1,HBO 2 SD²
+http://connecttv.cc:80/Leandro/123456/31962
+#EXTINF:-1,HBO PLUS UHD
+http://connecttv.cc:80/Leandro/123456/16443
+#EXTINF:-1,HBO PLUS UHD²
+http://connecttv.cc:80/Leandro/123456/31951
+#EXTINF:-1,HBO PLUS HD
+http://connecttv.cc:80/Leandro/123456/16398
+#EXTINF:-1,HBO PLUS HD²
+http://connecttv.cc:80/Leandro/123456/31950
+#EXTINF:-1,HBO PLUS SD
+http://connecttv.cc:80/Leandro/123456/18084
+#EXTINF:-1,HBO PLUS SD²
+http://connecttv.cc:80/Leandro/123456/31954
+#EXTINF:-1,HBO PLUS *e HD²
+http://connecttv.cc:80/Leandro/123456/31952
+#EXTINF:-1,HBO SIGNATURE UHD
+http://connecttv.cc:80/Leandro/123456/16397
+#EXTINF:-1,HBO SIGNATURE UHD²
+http://connecttv.cc:80/Leandro/123456/31948
+#EXTINF:-1,HBO SIGNATURE HD
+http://connecttv.cc:80/Leandro/123456/31189
+#EXTINF:-1,HBO SIGNATURE HD²
+http://connecttv.cc:80/Leandro/123456/31947
+#EXTINF:-1,HBO SIGNATURE SD²
+http://connecttv.cc:80/Leandro/123456/31949
+#EXTINF:-1,HBO FAMILY UHD
+http://connecttv.cc:80/Leandro/123456/16369
+#EXTINF:-1,HBO FAMILY UHD²
+http://connecttv.cc:80/Leandro/123456/31958
+#EXTINF:-1,HBO FAMILY HD²
+http://connecttv.cc:80/Leandro/123456/31957
+#EXTINF:-1,HBO FAMILY SD²
+http://connecttv.cc:80/Leandro/123456/31959
+#EXTINF:-1,HISTORY UHD
+http://connecttv.cc:80/Leandro/123456/16396
+#EXTINF:-1,HISTORY UHD²
+http://connecttv.cc:80/Leandro/123456/31945
+#EXTINF:-1,HISTORY HD
+http://connecttv.cc:80/Leandro/123456/16544
+#EXTINF:-1,HISTORY HD²
+http://connecttv.cc:80/Leandro/123456/31944
+#EXTINF:-1,HISTORY SD
+http://connecttv.cc:80/Leandro/123456/16503
+#EXTINF:-1,HISTORY SD²
+http://connecttv.cc:80/Leandro/123456/31946
+#EXTINF:-1,H2 UHD
+http://connecttv.cc:80/Leandro/123456/16446
+#EXTINF:-1,H2 UHD²
+http://connecttv.cc:80/Leandro/123456/31965
+#EXTINF:-1,H2 HD²
+http://connecttv.cc:80/Leandro/123456/31964
+#EXTINF:-1,H2 SD²
+http://connecttv.cc:80/Leandro/123456/31966
+#EXTINF:-1,IDEAL TV UHD
+http://connecttv.cc:80/Leandro/123456/17442
+#EXTINF:-1,IDEAL TV SD
+http://connecttv.cc:80/Leandro/123456/19340
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY
+http://connecttv.cc:80/Leandro/123456/16442
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY UHD²
+http://connecttv.cc:80/Leandro/123456/31942
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY HD²
+http://connecttv.cc:80/Leandro/123456/31941
+#EXTINF:-1,INVESTIGAÇAO DISCOVERY SD²
+http://connecttv.cc:80/Leandro/123456/31943
+#EXTINF:-1,IPB TV SD²
+http://connecttv.cc:80/Leandro/123456/32173
+#EXTINF:-1,LIFE TIME UHD
+http://connecttv.cc:80/Leandro/123456/16395
+#EXTINF:-1,LIFETIME UHD²
+http://connecttv.cc:80/Leandro/123456/31938
+#EXTINF:-1,LIFETIME HD²
+http://connecttv.cc:80/Leandro/123456/31937
+#EXTINF:-1,LIFETIME SD
+http://connecttv.cc:80/Leandro/123456/19339
+#EXTINF:-1,LIFETIME SD²
+http://connecttv.cc:80/Leandro/123456/31939
+#EXTINF:-1,LIKE UHD
+http://connecttv.cc:80/Leandro/123456/16358
+#EXTINF:-1,MAIS GLOBO SAT UHD
+http://connecttv.cc:80/Leandro/123456/16357
+#EXTINF:-1,MAIS GLOBO SAT UHD²
+http://connecttv.cc:80/Leandro/123456/31974
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://connecttv.cc:80/Leandro/123456/31973
+#EXTINF:-1,MAIS GLOBO SAT SD
+http://connecttv.cc:80/Leandro/123456/19348
+#EXTINF:-1,MAIS GLOBOSAT SD²
+http://connecttv.cc:80/Leandro/123456/31975
+#EXTINF:-1,MAX  UHD
+http://connecttv.cc:80/Leandro/123456/16394
+#EXTINF:-1,MAX UHD²
+http://connecttv.cc:80/Leandro/123456/31935
+#EXTINF:-1,MAX HD²
+http://connecttv.cc:80/Leandro/123456/31934
+#EXTINF:-1,MAX SD
+http://connecttv.cc:80/Leandro/123456/16497
+#EXTINF:-1,MAX SD²
+http://connecttv.cc:80/Leandro/123456/31936
+#EXTINF:-1,MAX UP HD²
+http://connecttv.cc:80/Leandro/123456/31931
+#EXTINF:-1,MAX PRIME *e SD²
+http://connecttv.cc:80/Leandro/123456/31932
+#EXTINF:-1,MAX PRIME UHD
+http://connecttv.cc:80/Leandro/123456/16441
+#EXTINF:-1,MAX PRIME UHD²
+http://connecttv.cc:80/Leandro/123456/31930
+#EXTINF:-1,MAX PRIME HD
+http://connecttv.cc:80/Leandro/123456/16543
+#EXTINF:-1,MAX PRIME HD²
+http://connecttv.cc:80/Leandro/123456/20266
+#EXTINF:-1,MAX PRIME HD²
+http://connecttv.cc:80/Leandro/123456/31929
+#EXTINF:-1,MAX PRIME SD
+http://connecttv.cc:80/Leandro/123456/19338
+#EXTINF:-1,MAX PRIME SD²
+http://connecttv.cc:80/Leandro/123456/31933
+#EXTINF:-1,MAX UP HD
+http://connecttv.cc:80/Leandro/123456/31926
+#EXTINF:-1,MAX UP UHD
+http://connecttv.cc:80/Leandro/123456/16360
+#EXTINF:-1,MAX UP UHD²
+http://connecttv.cc:80/Leandro/123456/31927
+#EXTINF:-1,MAX UP SD²
+http://connecttv.cc:80/Leandro/123456/31928
+#EXTINF:-1,MEGAPIX UHD
+http://connecttv.cc:80/Leandro/123456/16440
+#EXTINF:-1,MEGA PIX UHD
+http://connecttv.cc:80/Leandro/123456/29126
+#EXTINF:-1,MEGAPIX UHD²
+http://connecttv.cc:80/Leandro/123456/31924
+#EXTINF:-1,MEGA PIX HD
+http://connecttv.cc:80/Leandro/123456/29140
+#EXTINF:-1,MEGAPIX HD²
+http://connecttv.cc:80/Leandro/123456/31923
+#EXTINF:-1,MEGAPIX SD
+http://connecttv.cc:80/Leandro/123456/17980
+#EXTINF:-1,MEGAPIX SD²
+http://connecttv.cc:80/Leandro/123456/31925
+#EXTINF:-1,MEGAPIX 4K
+http://connecttv.cc:80/Leandro/123456/29130
+#EXTINF:-1,MEGA TV UHD
+http://connecttv.cc:80/Leandro/123456/17444
+#EXTINF:-1,MTV UHD
+http://connecttv.cc:80/Leandro/123456/16393
+#EXTINF:-1,MTV UHD²
+http://connecttv.cc:80/Leandro/123456/31921
+#EXTINF:-1,MTV HD
+http://connecttv.cc:80/Leandro/123456/16542
+#EXTINF:-1,MTV HDï¿½
+http://connecttv.cc:80/Leandro/123456/31920
+#EXTINF:-1,MTV SD²
+http://connecttv.cc:80/Leandro/123456/31922
+#EXTINF:-1,MTV LIVE UHD
+http://connecttv.cc:80/Leandro/123456/16439
+#EXTINF:-1,MTV LIVE UHD²
+http://connecttv.cc:80/Leandro/123456/31919
+#EXTINF:-1,MTV LIVE HD
+http://connecttv.cc:80/Leandro/123456/16541
+#EXTINF:-1,MTV LIVE HD²
+http://connecttv.cc:80/Leandro/123456/31918
+#EXTINF:-1,MUNDIAL TV²
+http://connecttv.cc:80/Leandro/123456/32174
+#EXTINF:-1,MULTISHOW  UHD
+http://connecttv.cc:80/Leandro/123456/16392
+#EXTINF:-1,MULTISHOW UHD²
+http://connecttv.cc:80/Leandro/123456/31916
+#EXTINF:-1,MULTISHOW HDï¿½
+http://connecttv.cc:80/Leandro/123456/31915
+#EXTINF:-1,MULTISHOW SD
+http://connecttv.cc:80/Leandro/123456/19269
+#EXTINF:-1,MULTISHOW SD²
+http://connecttv.cc:80/Leandro/123456/31917
+#EXTINF:-1,MULTISHOW 4K
+http://connecttv.cc:80/Leandro/123456/22802
+#EXTINF:-1,MUSIC BOX SD
+http://connecttv.cc:80/Leandro/123456/19337
+#EXTINF:-1,MUSIC BOX BRAZIL SD²
+http://connecttv.cc:80/Leandro/123456/31914
+#EXTINF:-1,NAT GEO KIDS UHD
+http://connecttv.cc:80/Leandro/123456/16437
+#EXTINF:-1,NATGEO KIDS UHD²
+http://connecttv.cc:80/Leandro/123456/31912
+#EXTINF:-1,NATGEO KIDS HD
+http://connecttv.cc:80/Leandro/123456/20264
+#EXTINF:-1,NAT GEO KIDS HD
+http://connecttv.cc:80/Leandro/123456/16390
+#EXTINF:-1,NATGEO KIDS HD²
+http://connecttv.cc:80/Leandro/123456/31911
+#EXTINF:-1,NATGEO KIDS SD²
+http://connecttv.cc:80/Leandro/123456/31913
+#EXTINF:-1,NATGEO WILD UHD
+http://connecttv.cc:80/Leandro/123456/16391
+#EXTINF:-1,NATGEO WILD UHD²
+http://connecttv.cc:80/Leandro/123456/31909
+#EXTINF:-1,NATGEO WILD HD²
+http://connecttv.cc:80/Leandro/123456/31908
+#EXTINF:-1,NATGEO WILD SD
+http://connecttv.cc:80/Leandro/123456/19336
+#EXTINF:-1,NATGEO WILD SD²
+http://connecttv.cc:80/Leandro/123456/31910
+#EXTINF:-1,NATIONAL GEOGRAPHIC UHD
+http://connecttv.cc:80/Leandro/123456/16438
+#EXTINF:-1,NATIONAL GEOGRAPHIC UHD²
+http://connecttv.cc:80/Leandro/123456/31906
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD²
+http://connecttv.cc:80/Leandro/123456/31905
+#EXTINF:-1,NATIONAL GEOGRAPHIC SD²
+http://connecttv.cc:80/Leandro/123456/31907
+#EXTINF:-1,NATIONAL GEOGRAPHIC 4K
+http://connecttv.cc:80/Leandro/123456/29128
+#EXTINF:-1,NBR HD²
+http://connecttv.cc:80/Leandro/123456/31903
+#EXTINF:-1,NBR SD²
+http://connecttv.cc:80/Leandro/123456/31904
+#EXTINF:-1,NGP TV²
+http://connecttv.cc:80/Leandro/123456/32172
+#EXTINF:-1,NHK WORLD HD
+http://connecttv.cc:80/Leandro/123456/16389
+#EXTINF:-1,NHK WORLD SD
+http://connecttv.cc:80/Leandro/123456/19270
+#EXTINF:-1,NICK JR UHD
+http://connecttv.cc:80/Leandro/123456/16388
+#EXTINF:-1,NICK JR UHD²
+http://connecttv.cc:80/Leandro/123456/31902
+#EXTINF:-1,NICK  JR HD
+http://connecttv.cc:80/Leandro/123456/16540
+#EXTINF:-1,NICK JR. HD²
+http://connecttv.cc:80/Leandro/123456/31900
+#EXTINF:-1,NICK JR SD
+http://connecttv.cc:80/Leandro/123456/19335
+#EXTINF:-1,NICK JR. SD²
+http://connecttv.cc:80/Leandro/123456/31901
+#EXTINF:-1,NICKELODEON UHD
+http://connecttv.cc:80/Leandro/123456/17983
+#EXTINF:-1,NICKELODEON UHD²
+http://connecttv.cc:80/Leandro/123456/31898
+#EXTINF:-1,NICKELODEON HD
+http://connecttv.cc:80/Leandro/123456/31193
+#EXTINF:-1,NICKELODEON HD²
+http://connecttv.cc:80/Leandro/123456/31897
+#EXTINF:-1,NICKELODEON SD²
+http://connecttv.cc:80/Leandro/123456/31899
+#EXTINF:-1,NOVO TEMPO SD²
+http://connecttv.cc:80/Leandro/123456/31896
+#EXTINF:-1,TV NOVO TEMPO SD²
+http://connecttv.cc:80/Leandro/123456/32180
+#EXTINF:-1,OFF UHD
+http://connecttv.cc:80/Leandro/123456/16356
+#EXTINF:-1,OFF UHD²
+http://connecttv.cc:80/Leandro/123456/31894
+#EXTINF:-1,OFF HD²
+http://connecttv.cc:80/Leandro/123456/31893
+#EXTINF:-1,OFF SD²
+http://connecttv.cc:80/Leandro/123456/31895
+#EXTINF:-1,PARAMOUNT UHD
+http://connecttv.cc:80/Leandro/123456/16387
+#EXTINF:-1,PARAMOUNT CHANNEL UHD²
+http://connecttv.cc:80/Leandro/123456/31891
+#EXTINF:-1,PARAMOUNT CHANNEL HD²
+http://connecttv.cc:80/Leandro/123456/31890
+#EXTINF:-1,PARAMOUNT SD
+http://connecttv.cc:80/Leandro/123456/19265
+#EXTINF:-1,PARAMOUNT CHANNEL SD²
+http://connecttv.cc:80/Leandro/123456/31892
+#EXTINF:-1,PLAY KIDS FHD
+http://connecttv.cc:80/Leandro/123456/16336
+#EXTINF:-1,PLAY TV SD
+http://connecttv.cc:80/Leandro/123456/17181
+#EXTINF:-1,PLAY TV SD²
+http://connecttv.cc:80/Leandro/123456/31889
+#EXTINF:-1,PREMIERE CLUBES UHD
+http://connecttv.cc:80/Leandro/123456/16423
+#EXTINF:-1,PREMIERE CLUBES UHD²
+http://connecttv.cc:80/Leandro/123456/31868
+#EXTINF:-1,PREMIERE CLUBES HD
+http://connecttv.cc:80/Leandro/123456/16539
+#EXTINF:-1,PREMIERE CLUBES HD²
+http://connecttv.cc:80/Leandro/123456/31867
+#EXTINF:-1,PREMIERE CLUBES SD
+http://connecttv.cc:80/Leandro/123456/20260
+#EXTINF:-1,PREMIERE SD²
+http://connecttv.cc:80/Leandro/123456/31869
+#EXTINF:-1,PREMIERE 4K
+http://connecttv.cc:80/Leandro/123456/20294
+#EXTINF:-1,PREMIERE 2 UHD
+http://connecttv.cc:80/Leandro/123456/16422
+#EXTINF:-1,PREMIERE 2 UHD²
+http://connecttv.cc:80/Leandro/123456/31886
+#EXTINF:-1,PREMIERE 2 HD
+http://connecttv.cc:80/Leandro/123456/16537
+#EXTINF:-1,PREMIERE 2 HD²
+http://connecttv.cc:80/Leandro/123456/31885
+#EXTINF:-1,PREMIERE 2 SD²
+http://connecttv.cc:80/Leandro/123456/31887
+#EXTINF:-1,PREMIERE 3 UHD
+http://connecttv.cc:80/Leandro/123456/16421
+#EXTINF:-1,PREMIERE 3 UHD²
+http://connecttv.cc:80/Leandro/123456/31883
+#EXTINF:-1,PREMIERE 3 HD
+http://connecttv.cc:80/Leandro/123456/16536
+#EXTINF:-1,PREMIERE 3 HD²
+http://connecttv.cc:80/Leandro/123456/31882
+#EXTINF:-1,PREMIERE 3 SD²
+http://connecttv.cc:80/Leandro/123456/31884
+#EXTINF:-1,PREMIERE 4 UHD
+http://connecttv.cc:80/Leandro/123456/16420
+#EXTINF:-1,PREMIERE 4 UHD²
+http://connecttv.cc:80/Leandro/123456/31880
+#EXTINF:-1,PREMIERE 4 HD
+http://connecttv.cc:80/Leandro/123456/16538
+#EXTINF:-1,PREMIERE 4 HD²
+http://connecttv.cc:80/Leandro/123456/31879
+#EXTINF:-1,PREMIERE 4 SD
+http://connecttv.cc:80/Leandro/123456/19334
+#EXTINF:-1,PREMIERE 4 SD²
+http://connecttv.cc:80/Leandro/123456/31881
+#EXTINF:-1,PREMIERE 5 UHD
+http://connecttv.cc:80/Leandro/123456/16386
+#EXTINF:-1,PREMIERE 5 UHD²
+http://connecttv.cc:80/Leandro/123456/31877
+#EXTINF:-1,PREMIERE 5 HD
+http://connecttv.cc:80/Leandro/123456/16535
+#EXTINF:-1,PREMIERE 5 HD²
+http://connecttv.cc:80/Leandro/123456/31876
+#EXTINF:-1,PREMIERE 5 SD²
+http://connecttv.cc:80/Leandro/123456/31878
+#EXTINF:-1,PREMIERE 6 UHD
+http://connecttv.cc:80/Leandro/123456/16385
+#EXTINF:-1,PREMIERE 6 UHD²
+http://connecttv.cc:80/Leandro/123456/31874
+#EXTINF:-1,PREMIERE 6 HD
+http://connecttv.cc:80/Leandro/123456/16534
+#EXTINF:-1,PREMIERE 6 HD²
+http://connecttv.cc:80/Leandro/123456/31873
+#EXTINF:-1,PPREMIERE 6 SD²
+http://connecttv.cc:80/Leandro/123456/31875
+#EXTINF:-1,PREMIERE 7 UHD
+http://connecttv.cc:80/Leandro/123456/16373
+#EXTINF:-1,PREMIERE 7 UHD²
+http://connecttv.cc:80/Leandro/123456/31871
+#EXTINF:-1,PREMIERE 7 HD²
+http://connecttv.cc:80/Leandro/123456/31870
+#EXTINF:-1,PREMIERE 7 SD
+http://connecttv.cc:80/Leandro/123456/19333
+#EXTINF:-1,PREMIERE 7 SD²
+http://connecttv.cc:80/Leandro/123456/31872
+#EXTINF:-1,PREMIERE 8 SD
+http://connecttv.cc:80/Leandro/123456/19332
+#EXTINF:-1,PRIME BOX SD
+http://connecttv.cc:80/Leandro/123456/17182
+#EXTINF:-1,RECORD UHD
+http://connecttv.cc:80/Leandro/123456/16532
+#EXTINF:-1,RECORD UHD²
+http://connecttv.cc:80/Leandro/123456/31855
+#EXTINF:-1,RECORD HD
+http://connecttv.cc:80/Leandro/123456/16418
+#EXTINF:-1,RECORD HD²
+http://connecttv.cc:80/Leandro/123456/31857
+#EXTINF:-1,RECORD SD²
+http://connecttv.cc:80/Leandro/123456/31856
+#EXTINF:-1,RECORD 4K
+http://connecttv.cc:80/Leandro/123456/20296
+#EXTINF:-1,RECORD AMAZONAS HD
+http://connecttv.cc:80/Leandro/123456/16342
+#EXTINF:-1,RECORD CAMPINAS HD²
+http://connecttv.cc:80/Leandro/123456/31865
+#EXTINF:-1,RECORD CAMPINAS SD²
+http://connecttv.cc:80/Leandro/123456/31866
+#EXTINF:-1,RECORD DF SD²
+http://connecttv.cc:80/Leandro/123456/31864
+#EXTINF:-1,RECORD GOIÁS SD
+http://connecttv.cc:80/Leandro/123456/19356
+#EXTINF:-1,RECORD MG SD²
+http://connecttv.cc:80/Leandro/123456/31863
+#EXTINF:-1,RECORD RJ HD²
+http://connecttv.cc:80/Leandro/123456/31859
+#EXTINF:-1,RECORD RJ SD²
+http://connecttv.cc:80/Leandro/123456/31860
+#EXTINF:-1,RECORD SP HD²
+http://connecttv.cc:80/Leandro/123456/31854
+#EXTINF:-1,RECORD RS SD²
+http://connecttv.cc:80/Leandro/123456/31858
+#EXTINF:-1,RECORD NEWS UHD
+http://connecttv.cc:80/Leandro/123456/16335
+#EXTINF:-1,RECORD NEWS HD²
+http://connecttv.cc:80/Leandro/123456/31861
+#EXTINF:-1,RECORD NEWS SD²
+http://connecttv.cc:80/Leandro/123456/31862
+#EXTINF:-1,RED BULL TV  UHD
+http://connecttv.cc:80/Leandro/123456/16348
+#EXTINF:-1,REDE BRASIL DE COMUNICAÇÃO²
+http://connecttv.cc:80/Leandro/123456/32170
+#EXTINF:-1,REDE GOSPEL UHD
+http://connecttv.cc:80/Leandro/123456/17445
+#EXTINF:-1,REDE GOSPEL SD
+http://connecttv.cc:80/Leandro/123456/19268
+#EXTINF:-1,REDE TV UHD²
+http://connecttv.cc:80/Leandro/123456/31852
+#EXTINF:-1,REDE TV SD
+http://connecttv.cc:80/Leandro/123456/16347
+#EXTINF:-1,REDE TV HD²
+http://connecttv.cc:80/Leandro/123456/31851
+#EXTINF:-1,REDE TV SD²
+http://connecttv.cc:80/Leandro/123456/31853
+#EXTINF:-1,REDETV 4K
+http://connecttv.cc:80/Leandro/123456/20295
+#EXTINF:-1,REDE VIDA HD²
+http://connecttv.cc:80/Leandro/123456/31849
+#EXTINF:-1,REDE VIDA SD²
+http://connecttv.cc:80/Leandro/123456/31850
+#EXTINF:-1,REDE CIDADE VIVA SD²
+http://connecttv.cc:80/Leandro/123456/32169
+#EXTINF:-1,REDE RVC SD²
+http://connecttv.cc:80/Leandro/123456/32167
+#EXTINF:-1,REDE SUPER SD²
+http://connecttv.cc:80/Leandro/123456/32166
+#EXTINF:-1,RIT SD
+http://connecttv.cc:80/Leandro/123456/20261
+#EXTINF:-1,RIT TV SD²
+http://connecttv.cc:80/Leandro/123456/32165
+#EXTINF:-1,RPC PY HD
+http://connecttv.cc:80/Leandro/123456/16333
+#EXTINF:-1,SBT UHD
+http://connecttv.cc:80/Leandro/123456/16384
+#EXTINF:-1,SBT UHD²
+http://connecttv.cc:80/Leandro/123456/31847
+#EXTINF:-1,SBT HD
+http://connecttv.cc:80/Leandro/123456/16345
+#EXTINF:-1,SBT HD²
+http://connecttv.cc:80/Leandro/123456/31846
+#EXTINF:-1,SBT SD
+http://connecttv.cc:80/Leandro/123456/17183
+#EXTINF:-1,SBT SD²
+http://connecttv.cc:80/Leandro/123456/31848
+#EXTINF:-1,SBT 4K
+http://connecttv.cc:80/Leandro/123456/20290
+#EXTINF:-1,SBT REDE MASSA PR SD
+http://connecttv.cc:80/Leandro/123456/31188
+#EXTINF:-1,SBT CE HD
+http://connecttv.cc:80/Leandro/123456/20287
+#EXTINF:-1,SBT CIDADE VERDE PIAUI
+http://connecttv.cc:80/Leandro/123456/29127
+#EXTINF:-1,SBT TV CIDADE VERDE PIAUÍ SD²
+http://connecttv.cc:80/Leandro/123456/31844
+#EXTINF:-1,SBT PERNAMBUCO CARUARU HD
+http://connecttv.cc:80/Leandro/123456/29133
+#EXTINF:-1,SBT PERNAMBUCO HD
+http://connecttv.cc:80/Leandro/123456/20288
+#EXTINF:-1,SBT TV JORNAL PERNANBUCO SD²
+http://connecttv.cc:80/Leandro/123456/31843
+#EXTINF:-1,SBT NORDESTE HD²
+http://connecttv.cc:80/Leandro/123456/31845
+#EXTINF:-1,SBT PIAUI UHD
+http://connecttv.cc:80/Leandro/123456/17982
+#EXTINF:-1,SBT TV JORNAL
+http://connecttv.cc:80/Leandro/123456/29132
+#EXTINF:-1,SIC TV SD
+http://connecttv.cc:80/Leandro/123456/19331
+#EXTINF:-1,SMITHSONIAN UHD
+http://connecttv.cc:80/Leandro/123456/17446
+#EXTINF:-1,SPACE UHD
+http://connecttv.cc:80/Leandro/123456/16426
+#EXTINF:-1,SPACE UHD²
+http://connecttv.cc:80/Leandro/123456/31838
+#EXTINF:-1,SPACE HD²
+http://connecttv.cc:80/Leandro/123456/31837
+#EXTINF:-1,SPACE SD²
+http://connecttv.cc:80/Leandro/123456/31839
+#EXTINF:-1,SONY UHD
+http://connecttv.cc:80/Leandro/123456/16382
+#EXTINF:-1,SONY UHD²
+http://connecttv.cc:80/Leandro/123456/31841
+#EXTINF:-1,SONY HD
+http://connecttv.cc:80/Leandro/123456/20279
+#EXTINF:-1,SONY HD²
+http://connecttv.cc:80/Leandro/123456/31840
+#EXTINF:-1,SONY SD²
+http://connecttv.cc:80/Leandro/123456/31842
+#EXTINF:-1,SPORTV ALTERNATIVO SD
+http://connecttv.cc:80/Leandro/123456/19330
+#EXTINF:-1,SPORTV UHD
+http://connecttv.cc:80/Leandro/123456/16428
+#EXTINF:-1,SPORTV UHD²
+http://connecttv.cc:80/Leandro/123456/31829
+#EXTINF:-1,SPORTV HD
+http://connecttv.cc:80/Leandro/123456/16530
+#EXTINF:-1,SPORTV HD²
+http://connecttv.cc:80/Leandro/123456/31828
+#EXTINF:-1,SPORTV SD²
+http://connecttv.cc:80/Leandro/123456/31836
+#EXTINF:-1,SPORTV 4K
+http://connecttv.cc:80/Leandro/123456/22803
+#EXTINF:-1,SPORTV 2 UHD
+http://connecttv.cc:80/Leandro/123456/16425
+#EXTINF:-1,SPORTV 2 UHD²
+http://connecttv.cc:80/Leandro/123456/31834
+#EXTINF:-1,SPORTV 2 HD
+http://connecttv.cc:80/Leandro/123456/16529
+#EXTINF:-1,SPORTV 2 HD²
+http://connecttv.cc:80/Leandro/123456/31833
+#EXTINF:-1,SPORTV 2 SD
+http://connecttv.cc:80/Leandro/123456/17184
+#EXTINF:-1,SPORTV 2 SD²
+http://connecttv.cc:80/Leandro/123456/31835
+#EXTINF:-1,SPORTV 3 HD
+http://connecttv.cc:80/Leandro/123456/16528
+#EXTINF:-1,SPORTV 3 HD²
+http://connecttv.cc:80/Leandro/123456/31830
+#EXTINF:-1,SPORTV 3 SD
+http://connecttv.cc:80/Leandro/123456/19264
+#EXTINF:-1,SPORTV 3 SD²
+http://connecttv.cc:80/Leandro/123456/31832
+#EXTINF:-1,SPORTV 3 UHD
+http://connecttv.cc:80/Leandro/123456/16424
+#EXTINF:-1,SPORTV 3 UHD²
+http://connecttv.cc:80/Leandro/123456/31831
+#EXTINF:-1,SHOP TIME HD
+http://connecttv.cc:80/Leandro/123456/20284
+#EXTINF:-1,SYFY UHD
+http://connecttv.cc:80/Leandro/123456/16381
+#EXTINF:-1,SYFY UHD²
+http://connecttv.cc:80/Leandro/123456/31823
+#EXTINF:-1,SYFY HD
+http://connecttv.cc:80/Leandro/123456/31194
+#EXTINF:-1,SYFY HD²
+http://connecttv.cc:80/Leandro/123456/31822
+#EXTINF:-1,SYFY SD
+http://connecttv.cc:80/Leandro/123456/19329
+#EXTINF:-1,SYFY SD²
+http://connecttv.cc:80/Leandro/123456/31824
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://connecttv.cc:80/Leandro/123456/17185
+#EXTINF:-1,STUDIO UNIVERSAL SD²
+http://connecttv.cc:80/Leandro/123456/31827
+#EXTINF:-1,STUDIO UNIVERSAL HD²
+http://connecttv.cc:80/Leandro/123456/31825
+#EXTINF:-1,STUDIO UNIVERSAL UHD²
+http://connecttv.cc:80/Leandro/123456/31826
+#EXTINF:-1,TBS UHD
+http://connecttv.cc:80/Leandro/123456/16380
+#EXTINF:-1,TBS UHD²
+http://connecttv.cc:80/Leandro/123456/31820
+#EXTINF:-1,TBS HD
+http://connecttv.cc:80/Leandro/123456/16527
+#EXTINF:-1,TBS HD²
+http://connecttv.cc:80/Leandro/123456/31819
+#EXTINF:-1,TBS SD
+http://connecttv.cc:80/Leandro/123456/19328
+#EXTINF:-1,TBS SD²
+http://connecttv.cc:80/Leandro/123456/31821
+#EXTINF:-1,TLC UHD
+http://connecttv.cc:80/Leandro/123456/16364
+#EXTINF:-1,TLC UHD²
+http://connecttv.cc:80/Leandro/123456/31796
+#EXTINF:-1,TLC HD
+http://connecttv.cc:80/Leandro/123456/16521
+#EXTINF:-1,TLC HD²
+http://connecttv.cc:80/Leandro/123456/31795
+#EXTINF:-1,TCM HD²
+http://connecttv.cc:80/Leandro/123456/31817
+#EXTINF:-1,TLC SD²
+http://connecttv.cc:80/Leandro/123456/31797
+#EXTINF:-1,TCM SD
+http://connecttv.cc:80/Leandro/123456/17186
+#EXTINF:-1,TCM SD²
+http://connecttv.cc:80/Leandro/123456/31818
+#EXTINF:-1,TERRA VIVA SD²
+http://connecttv.cc:80/Leandro/123456/31798
+#EXTINF:-1,TNT UHD
+http://connecttv.cc:80/Leandro/123456/16363
+#EXTINF:-1,TNT UHD²
+http://connecttv.cc:80/Leandro/123456/31793
+#EXTINF:-1,TNT HD
+http://connecttv.cc:80/Leandro/123456/20267
+#EXTINF:-1,TNT HD²
+http://connecttv.cc:80/Leandro/123456/31792
+#EXTINF:-1,TNT SD²
+http://connecttv.cc:80/Leandro/123456/31794
+#EXTINF:-1,TNT 4K
+http://connecttv.cc:80/Leandro/123456/20292
+#EXTINF:-1,TNT SERIES UHD
+http://connecttv.cc:80/Leandro/123456/16434
+#EXTINF:-1,TNT SERIES UHD²
+http://connecttv.cc:80/Leandro/123456/31790
+#EXTINF:-1,TNT SERIES HD
+http://connecttv.cc:80/Leandro/123456/16520
+#EXTINF:-1,TNT SERIES HD²
+http://connecttv.cc:80/Leandro/123456/31789
+#EXTINF:-1,TNT SERIES SD²
+http://connecttv.cc:80/Leandro/123456/31791
+#EXTINF:-1,TNT SERIES 4K
+http://connecttv.cc:80/Leandro/123456/31173
+#EXTINF:-1,TOONCAST HD
+http://connecttv.cc:80/Leandro/123456/31196
+#EXTINF:-1,TOONCAST HD²
+http://connecttv.cc:80/Leandro/123456/31787
+#EXTINF:-1,TOONCAST SD²
+http://connecttv.cc:80/Leandro/123456/31788
+#EXTINF:-1,TRAVEL BOX FHD
+http://connecttv.cc:80/Leandro/123456/17981
+#EXTINF:-1,TRUTV SD²
+http://connecttv.cc:80/Leandro/123456/31786
+#EXTINF:-1,TV APARECIDA SD
+http://connecttv.cc:80/Leandro/123456/16511
+#EXTINF:-1,TV APARECIDA SD²
+http://connecttv.cc:80/Leandro/123456/31784
+#EXTINF:-1,TV ARACATI HD
+http://connecttv.cc:80/Leandro/123456/16512
+#EXTINF:-1,TV A CRÍTICA AMAZONAS SD²
+http://connecttv.cc:80/Leandro/123456/31785
+#EXTINF:-1,TV BOA ESPERANÇA SD²
+http://connecttv.cc:80/Leandro/123456/32164
+#EXTINF:-1,TV CARIOCA HD
+http://connecttv.cc:80/Leandro/123456/16352
+#EXTINF:-1,TV CINE 2  HD²
+http://connecttv.cc:80/Leandro/123456/31780
+#EXTINF:-1,TV CULTURA UHD
+http://connecttv.cc:80/Leandro/123456/16379
+#EXTINF:-1,TV CULTURA UHD²
+http://connecttv.cc:80/Leandro/123456/31776
+#EXTINF:-1,TV CULTURA HD
+http://connecttv.cc:80/Leandro/123456/16519
+#EXTINF:-1,TV CULTURA HD²
+http://connecttv.cc:80/Leandro/123456/31775
+#EXTINF:-1,TV CULTURA SD²
+http://connecttv.cc:80/Leandro/123456/31777
+#EXTINF:-1,TV GAZETA SP FHD
+http://connecttv.cc:80/Leandro/123456/17447
+#EXTINF:-1,TV GAZETA UHD²
+http://connecttv.cc:80/Leandro/123456/31772
+#EXTINF:-1,TV GAZETA HD
+http://connecttv.cc:80/Leandro/123456/16518
+#EXTINF:-1,TV GAZETA SD²
+http://connecttv.cc:80/Leandro/123456/31773
+#EXTINF:-1,TV MUNDIAL
+http://connecttv.cc:80/Leandro/123456/9023
+#EXTINF:-1,TV NOVO TEMPO UHD
+http://connecttv.cc:80/Leandro/123456/17189
+#EXTINF:-1,TV NOVO TEMPO SD
+http://connecttv.cc:80/Leandro/123456/17188
+#EXTINF:-1,TV PAMPA RS  HD
+http://connecttv.cc:80/Leandro/123456/16341
+#EXTINF:-1,TV RATIMBUM UHD
+http://connecttv.cc:80/Leandro/123456/17441
+#EXTINF:-1,TV RATIMBUM HD
+http://connecttv.cc:80/Leandro/123456/31197
+#EXTINF:-1,TV UNIAO
+http://connecttv.cc:80/Leandro/123456/16339
+#EXTINF:-1,TV VITORIA ES HD
+http://connecttv.cc:80/Leandro/123456/16340
+#EXTINF:-1,UNIVERSAL STUDIO UHD
+http://connecttv.cc:80/Leandro/123456/16435
+#EXTINF:-1,TV UNIVERSAL SDï¿½
+http://connecttv.cc:80/Leandro/123456/32161
+#EXTINF:-1,VEM E VÊ TV 1 SD²
+http://connecttv.cc:80/Leandro/123456/32159
+#EXTINF:-1,VEM E VÊ TV 2 SD²
+http://connecttv.cc:80/Leandro/123456/32158
+#EXTINF:-1,VH1 UHD
+http://connecttv.cc:80/Leandro/123456/16377
+#EXTINF:-1,VH1 UHD²
+http://connecttv.cc:80/Leandro/123456/31764
+#EXTINF:-1,VH1 HD²
+http://connecttv.cc:80/Leandro/123456/31763
+#EXTINF:-1,VH1 SD²
+http://connecttv.cc:80/Leandro/123456/31765
+#EXTINF:-1,VIVA UHD
+http://connecttv.cc:80/Leandro/123456/16362
+#EXTINF:-1,VIVA UHD²
+http://connecttv.cc:80/Leandro/123456/31761
+#EXTINF:-1,VIVA HD²
+http://connecttv.cc:80/Leandro/123456/31760
+#EXTINF:-1,VIVA SD²
+http://connecttv.cc:80/Leandro/123456/31762
+#EXTINF:-1,UNIVERSAL CHANNEL UHD²
+http://connecttv.cc:80/Leandro/123456/31767
+#EXTINF:-1,UNIVERSAL CHANNEL HD²
+http://connecttv.cc:80/Leandro/123456/31766
+#EXTINF:-1,UNIVERSAL CHANNEL SD²
+http://connecttv.cc:80/Leandro/123456/31768
+#EXTINF:-1,WARNER CHANNEL UHD
+http://connecttv.cc:80/Leandro/123456/16436
+#EXTINF:-1,WARNER CHANNEL UHD²
+http://connecttv.cc:80/Leandro/123456/31758
+#EXTINF:-1,WARNER CHANNEL HD
+http://connecttv.cc:80/Leandro/123456/16516
+#EXTINF:-1,WARNER CHANNEL HD²
+http://connecttv.cc:80/Leandro/123456/31757
+#EXTINF:-1,WARNER CHANNEL SD²
+http://connecttv.cc:80/Leandro/123456/31759
+#EXTINF:-1,WOHOO UHD
+http://connecttv.cc:80/Leandro/123456/16361
+#EXTINF:-1,WOOHOO UHD²
+http://connecttv.cc:80/Leandro/123456/31755
+#EXTINF:-1,WOOHOO HD²
+http://connecttv.cc:80/Leandro/123456/31754
+#EXTINF:-1,WOOHOO SD²
+http://connecttv.cc:80/Leandro/123456/31756
+#EXTINF:-1,ZOOMO UHD
+http://connecttv.cc:80/Leandro/123456/16355
+#EXTINF:-1,ZOOMO HD
+http://connecttv.cc:80/Leandro/123456/31198
+#EXTINF:-1,ZOOMOO SD²
+http://connecttv.cc:80/Leandro/123456/31753
+#EXTINF:-1,RECORD UHD 4K PD
+http://connecttv.cc:80/Leandro/123456/35285
+#EXTINF:-1,ZOOMOO SD3
+http://connecttv.cc:80/Leandro/123456/35286
+#EXTINF:-1,GLOBO CENTRO AMERICA UHD
+http://connecttv.cc:80/Leandro/123456/35310
+#EXTINF:-1,GLOBO CENTRO AMERICA HD
+http://connecttv.cc:80/Leandro/123456/35309
+#EXTINF:-1,GLOBO MINAS UHD
+http://connecttv.cc:80/Leandro/123456/35308
+#EXTINF:-1,GLOBO MINAS HD
+http://connecttv.cc:80/Leandro/123456/35307
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FHD
+http://connecttv.cc:80/Leandro/123456/35306
+#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS HD
+http://connecttv.cc:80/Leandro/123456/35305
+#EXTINF:-1,GLOBO TV MIRANTE UHD
+http://connecttv.cc:80/Leandro/123456/35304
+#EXTINF:-1,GLOBO TV MIRANTE HD
+http://connecttv.cc:80/Leandro/123456/35303
+#EXTINF:-1,GLOBO VERDES MARES FHD
+http://connecttv.cc:80/Leandro/123456/35302
+#EXTINF:-1,GLOBO RBS UHD
+http://connecttv.cc:80/Leandro/123456/35301
+#EXTINF:-1,GLOBO VERDES MARES HD
+http://connecttv.cc:80/Leandro/123456/35299
+#EXTINF:-1,PLAYBOY HD
+http://connecttv.cc:80/Leandro/123456/16533
+#EXTINF:-1,PLAYBOYSD
+http://connecttv.cc:80/Leandro/123456/32136
+#EXTINF:-1,PLAYBOY UHD
+http://connecttv.cc:80/Leandro/123456/16419
+#EXTINF:-1,SEXTREME SD
+http://connecttv.cc:80/Leandro/123456/16427
+#EXTINF:-1,SEXTREME SD²
+http://connecttv.cc:80/Leandro/123456/32135
+#EXTINF:-1,SEXTREME HD
+http://connecttv.cc:80/Leandro/123456/31191
+#EXTINF:-1,SEXY HOT HD
+http://connecttv.cc:80/Leandro/123456/16531
+#EXTINF:-1,SEXY HOT UHD
+http://connecttv.cc:80/Leandro/123456/16383
+#EXTINF:-1,SEXY HOT SD²
+http://connecttv.cc:80/Leandro/123456/32134
+#EXTINF:-1,VENUS HD
+http://connecttv.cc:80/Leandro/123456/16517
+#EXTINF:-1,VENUS SD²
+http://connecttv.cc:80/Leandro/123456/32133
+#EXTINF:-1,VENUS UHD
+http://connecttv.cc:80/Leandro/123456/16378
+#EXTINF:-1,SEXPRIVE
+http://connecttv.cc:80/Leandro/123456/35289
+#EXTINF:-1,SEXTREME HD²
+http://connecttv.cc:80/Leandro/123456/35290
+#EXTINF:-1,SEXTREME
+http://connecttv.cc:80/Leandro/123456/35291
+#EXTINF:-1,SEXY HOTY
+http://connecttv.cc:80/Leandro/123456/35292
+#EXTINF:-1,SEXY HOT HD²
+http://connecttv.cc:80/Leandro/123456/35293
